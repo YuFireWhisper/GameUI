@@ -1,1 +1,1 @@
-{"game_1": {"game_name": "AirWar", "game_path": "Game_Code\\AirWar\\code\\main.py", "game_image": "Game_Code\\AirWar\\picture\\game_image.png"}}
+{"game_1": {"game_name": "AirWar", "game_path": "public\\Game_Code\\AirWar\\code\\main.py", "game_image": "Game_Code\\AirWar\\picture\\game_image.png", "high_score": 0}, "game_2": {"game_name": "goldCoin", "game_path": "E:/Program/Dev/goldCoin/main.py", "game_image": "E:/Program/Dev/goldCoin/img/coin_black_1.png"}, "test": {"high_score": 0}}
